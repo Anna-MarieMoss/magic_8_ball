@@ -50,6 +50,14 @@ p {
 
 @media only screen and (max-width: 567px) {
   img {
-    width: 20rem;
+    width: 10rem;
+  }
+
+  h1 {
+    font-size: 2.6rem;
+  }
+
+  h2 {
+    font-size: 1.6rem;
   }
 }
