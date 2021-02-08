@@ -47,3 +47,9 @@ h2,
 p {
   color: #fff;
 }
+
+@media only screen and (max-width: 567px) {
+  img {
+    width: 20rem;
+  }
+}
