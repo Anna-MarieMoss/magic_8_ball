@@ -1,0 +1,45 @@
+body {
+  padding-top: 2rem;
+  align-content: center;
+  background-color: black;
+  font-family: 'Sriracha', cursive;
+}
+
+span {
+  color: #fff;
+}
+
+button {
+  padding: 0.5rem;
+  font-size: 1.25rem;
+  border-radius: 0.5rem;
+  text-align: center;
+  background-color: chartreuse;
+  opacity: 75%;
+  color: black;
+}
+
+div {
+  padding: 1rem;
+  background-color: #f16059;
+  text-align: center;
+  max-width: 35rem;
+  margin: auto;
+  border-color: chartreuse;
+  border-width: 0.25rem;
+  border-style: solid;
+  font-family: 'Open Sans', sans-serif;
+}
+img {
+  max-width: 30rem;
+  margin: auto;
+}
+
+h2,
+.answer {
+  color: #fff;
+}
+
+.answer {
+  color: #fff;
+}
